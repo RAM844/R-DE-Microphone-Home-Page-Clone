@@ -11,16 +11,20 @@
 
 
 ## What I learned
+- I learned how to arrange components with tailwind css.
+I now have a strong understanding of tailwind CSS classes after completing this Project. Tailwind CSS makes life much easier.
+- It was a fantastic experience creating this home page. I had to do a lot of googling while learning and also while adding background photos in the right place.
+
 
 
 ## Time taken
-- It took me around `` six hours `` 
+- It took me around `` six hours `` to complete this project from scratch.
 
 
 
 ## Links
-- [live demo](#)
-- [source](#)
+- [live demo](https://rode-home-page-clone-by-shriram.netlify.app/)
+- [source](https://github.com/RAM844/RODE-Microphone-Home-Page-Clone)
 
 
 ## Contact me
